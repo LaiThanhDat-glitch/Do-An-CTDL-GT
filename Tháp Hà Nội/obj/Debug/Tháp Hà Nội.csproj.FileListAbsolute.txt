@@ -1,0 +1,20 @@
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe.config
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.pdb
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.AssemblyReference.cache
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\TowerOfHanoi.Form1.resources
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp_Hà_Nội.Properties.Resources.resources
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.GenerateResource.cache
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.CoreCompileInputs.cache
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.exe
+C:\Hồ sơ chuyển sinh hoạt Đảng 2024\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.pdb
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe.config
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.pdb
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.AssemblyReference.cache
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\TowerOfHanoi.Form1.resources
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp_Hà_Nội.Properties.Resources.resources
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.GenerateResource.cache
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.CoreCompileInputs.cache
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.exe
+C:\Users\aceho\Downloads\Tháp Hà Nội\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.pdb
