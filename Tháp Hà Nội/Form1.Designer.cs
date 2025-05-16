@@ -27,6 +27,7 @@ namespace TowerOfHanoi
 
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.btnStart = new System.Windows.Forms.Button();
             this.numDisks = new System.Windows.Forms.NumericUpDown();
             this.Step = new System.Windows.Forms.Label();
@@ -35,9 +36,7 @@ namespace TowerOfHanoi
             this.panelGame = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.numDisks)).BeginInit();
             this.SuspendLayout();
-            // 
-            // btnStart
-            // 
+            
             this.btnStart.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnStart.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -48,9 +47,7 @@ namespace TowerOfHanoi
             this.btnStart.TabIndex = 1;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = false;
-            // 
-            // numDisks
-            // 
+            
             this.numDisks.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.numDisks.Location = new System.Drawing.Point(25, 549);
             this.numDisks.Maximum = new decimal(new int[] {
@@ -71,9 +68,7 @@ namespace TowerOfHanoi
             0,
             0,
             0});
-            // 
-            // Step
-            // 
+            
             this.Step.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Step.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
             this.Step.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -82,9 +77,7 @@ namespace TowerOfHanoi
             this.Step.Size = new System.Drawing.Size(81, 30);
             this.Step.TabIndex = 4;
             this.Step.Text = "Step: 0";
-            // 
-            // btnPause
-            // 
+             
             this.btnPause.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnPause.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.btnPause.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -94,9 +87,7 @@ namespace TowerOfHanoi
             this.btnPause.TabIndex = 2;
             this.btnPause.Text = "Stop";
             this.btnPause.UseVisualStyleBackColor = false;
-            // 
-            // btnReset
-            // 
+            
             this.btnReset.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnReset.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.btnReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -106,11 +97,9 @@ namespace TowerOfHanoi
             this.btnReset.TabIndex = 3;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = false;
-            // 
-            // panelGame
-            // 
-            this.panelGame.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+             
+            this.panelGame.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panelGame.BackColor = System.Drawing.Color.LightGray;
             this.panelGame.BackgroundImage = global::Tháp_Hà_Nội.Properties.Resources.BackGround3;
@@ -119,9 +108,7 @@ namespace TowerOfHanoi
             this.panelGame.Name = "panelGame";
             this.panelGame.Size = new System.Drawing.Size(803, 517);
             this.panelGame.TabIndex = 3;
-            // 
-            // Form1
-            // 
+             
             this.ClientSize = new System.Drawing.Size(800, 600);
             this.Controls.Add(this.Step);
             this.Controls.Add(this.btnStart);
